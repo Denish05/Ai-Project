@@ -12,12 +12,19 @@ Yashraj Ojha(KU2407U496)
 ## Objective of the Project
 The objective of this project is to create an interactive Sports Analytics Dashboard that provides insights into key sports data metrics. The dashboard is designed to help users analyze performance trends, player statistics, and team standings, enabling data-driven decisions in the sports domain.
 ## Tools and Libraries Used
+
 •	Programming Language: Python
+
 •	Libraries:
+
 o	Pandas (for data manipulation)
+
 o	NumPy (for numerical operations)
+
 o	Matplotlib  (for data visualization)
+
 •	Other Tools: Google colab (for development and testing)
+
 ## Data Source(s)
 •	The data is taken from kaggle-https://www.kaggle.com/
 ## Execution Steps
