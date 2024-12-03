@@ -1,5 +1,5 @@
 # Ai-Project
-## topic : Sports Analytics Dashboard
+## Topic : Sports Analytics Dashboard
 ## Group Members
 Purva Prajapati (KU2407U646)
 
